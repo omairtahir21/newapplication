@@ -1,2 +1,16 @@
-# newapplication
-News apps are considered perfect Android app project ideas for beginners, as they require relatively little coding and can be completed quickly. Furthermore, there is a large demand for news apps, as people are always looking for new ways to keep up with the latest information. And with a little creativity
+# newsapplication
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
